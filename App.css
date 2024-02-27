@@ -1,0 +1,138 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: white;
+}
+/* .container {
+  background-color: #64aee3;
+  height:200px;
+  width: 100vh;
+}
+h1 {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+} */
+.container2 {
+  padding: 20px;
+  margin-top: 65px;
+  margin-left: 75px;
+  display: flex;
+  gap: 40px;
+}
+.container3 {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+p {
+  padding: 20px;
+  color: rgb(14, 13, 13);
+}
+h6 {
+  color: #135e94;
+}
+.container4 input {
+  width: 580px;
+  height: 40px;
+}
+.container5 input {
+  height: 160px;
+  width: 580px;
+}
+.container6 button {
+  height: 40px;
+  width: 580px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+.container6 button:hover {
+  background-color: #0e68a8;
+}
+.container7 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 395px;
+  background-color: #0b4269;
+  background-size: cover;
+}
+.container7 img {
+  position: relative;
+  margin-top: 70px;
+  height: 200px;
+  padding: 50px;
+}
+.container8 {
+  margin-top: 20px;
+  bottom: 40px;
+  margin-left: 20px;
+  color: white;
+  padding: 20px;
+  margin-left: 10px;
+}
+.container7 h4 {
+  padding: 15px;
+  padding-bottom: 50px;
+
+  justify-content: center;
+  margin-left: 30px;
+}
+p {
+  margin-bottom: 100px;
+  color: rgb(170, 160, 146);
+  margin-left: 25px;
+}
+.container9 {
+  width: 50px;
+  justify-content: space-between;
+  display: inline;
+  margin-left: 20px;
+  bottom: 30px;
+   
+   
+}
+#koko img {
+  width: 60px;
+  height: 35px;
+  
+}
+.container10 {
+  margin-left: 70px;
+  bottom: 20px;
+}
+.container11 {
+  display: flex;
+    justify-content: center;
+   align-items: center;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-left: 500px;
+  bottom: 70px;
+}
+h3 {
+  color: black;
+}
+ul li {
+  color: black;
+  display: flex;
+}
+.container14 {
+  width: 100vh;
+  background-color: #2b4659;
+}.container9 img{
+  width: 50px;
+
+} .container13 ul li{
+ margin-left: 20px;
+
+}.container13 h5{
+color:  black;
+}.container14 h2 {
+  color: black;
+  margin-left: 50%;
+}
